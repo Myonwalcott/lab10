@@ -1,0 +1,28 @@
+/* Custom CSS for additional styling */
+.hero-section {
+    padding: 100px 0;
+    background-color: #f8f9fa;
+  }
+  
+  .services-section {
+    padding: 80px 0;
+  }
+  
+  .contact-section {
+    padding: 80px 0;
+  }
+  
+  .footer {
+    padding: 20px 0;
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  .footer p {
+    margin-bottom: 0;
+  }
+  
+  .list-inline-item {
+    margin: 0 10px;
+  }
+  
