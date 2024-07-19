@@ -1,28 +1,53 @@
 /* Custom CSS for additional styling */
+
 .hero-section {
     padding: 100px 0;
-    background-color: #f8f9fa;
-  }
+    background-color: #bf3535;
+    color: #494c51;
+}
   
-  .services-section {
+.services-section {
     padding: 80px 0;
-  }
+    background-color: #f4d34e;
+    color: #494c51;
+}
   
-  .contact-section {
+.contact-section {
     padding: 80px 0;
-  }
+    background-color: #f4d34e;
+    color: #494c51;
+}
   
-  .footer {
+.footer {
     padding: 20px 0;
-    background-color: #343a40;
-    color: #fff;
-  }
+    background-color: #348445;
+    color: #494c51; /* Adjust text color for better contrast */
+}
   
-  .footer p {
+.footer p {
     margin-bottom: 0;
+}
+  
+.list-inline-item {
+    margin: 0 10px;
+}
+
+.btn-primary {
+    background-color: #348445; /* Match the navbar color */
+    border-color: #348445; /* Optional: Adjust border color if needed */
+    color: #494c51; /* Text color */
+}
+/* Custom CSS for additional styling */
+.navbar {
+    background-color: #348445; /* Adjust color as needed */
   }
   
-  .list-inline-item {
-    margin: 0 10px;
+  .navbar .navbar-brand,
+  .navbar .navbar-nav .nav-link {
+    color: #f4d34e; /* Change text color to contrast with navbar background */
+  }
+  
+  .navbar .navbar-nav .nav-item.active .nav-link {
+    color: #494c51; /* Adjust active link color */
   }
   
